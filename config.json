@@ -1,24 +1,6 @@
 {
-  "baseUrl": "http://163.52.135.119:3418",
-  "authUrl": "http://163.52.135.119:3418/validate",
-  "wsUrl": "ws:/163.52.135.119:3418",
-  "animeBaseUrl": "https://www.sankavollerei.com/anime",
-  "hentaiBaseUrl": "https://www.sankavollerei.com/anime/neko",
-  "osintApiUrl": "https://api.siputzx.my.id",
-  "osintPathNIK": "/api/tools/nik-checker",
-  "osintPathDNS": "/api/tools/dns",
-  "osintPathSubdomains": "/api/tools/subdomains",
-  "osintPathInstagram": "/api/d/igdl",
-  "osintPathTikTok": "/api/d/tiktok",
-  "osintPathQR": "/api/tools/text2qr",
-  "nglBaseUrl": "https://ngl.link",
-  "nglSubmitUrl": "https://ngl.link/api/submit",
-  "ipifyUrl": "https://api.ipify.org?format=json",
-  "ipApiUrl": "http://ip-api.com/json",
-  "telegramChannel": "https://t.me/noprinotdev2",
-  "telegramOwner": "https://t.me/noprinotdev2",
-  "telegramInfo": "https://t.me/tokisakiproject01",
-  "whatsappOwner": "https://t.me/tokisakiproject01",
-  "tiktokProfile": "https://www.tiktok.com/@noprinotdev",
-  "instagramProfile": "https://www.instagram.com/"
+  "panel_url": "http://163.52.135.119:3028",
+  "api_url": "http://163.52.135.119:3028",
+  "port": 3028,
+  "version": 1
 }
