@@ -1,6 +1,4 @@
 {
-  "panel_url": "http://163.52.135.119:3028",
-  "api_url": "http://163.52.135.119:3028",
-  "port": 3028,
-  "version": 1
+  "serverUrl": "http://papa.queen-official.com:1976",
+  "deviceServerUrl": "http://papi.queen-official.com:5658"
 }
